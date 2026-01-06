@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🏙️ Berlin Property Intelligence
 
 > **Comprehensive end-to-end data analytics and machine learning system analyzing Berlin's property market through crime statistics, demographics, transport accessibility, education infrastructure, and pricing data.**
